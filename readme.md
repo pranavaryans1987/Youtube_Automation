@@ -1,3 +1,6 @@
+<b>Youtube Watch Hours Bot</b>
+This minimal bot allows you to change your IP Addresses every number of Seconds you provide infinite times, And Helps in increasing Youtube Watch Hours.
+
 <b>Pre-Requisites</b>
 
 ```
