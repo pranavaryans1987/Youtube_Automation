@@ -1,4 +1,4 @@
-Pre-Requisites
+<b>Pre-Requisites<b>
 
 ```
 1. Linux (Kali Linux Preferred)
