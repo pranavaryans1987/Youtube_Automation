@@ -13,7 +13,7 @@ This minimal bot allows you to change your IP Addresses every number of Seconds 
 <b>How To Use</b>
 ```
 1. git clone https://github.com/pranavaryans1987/Youtube_Automation.git
-2. cd Youtube_Automation
+2. cd Youtube_Automation & Open Terminal there
 3. sudo python install.py
 4. sudo aut (Set No. Of Seconds ETC as Required)
 5. Open FireFox -> Settings -> SOCKS -> Provide Host : 127.0.0.1 & Proxy : 9050
@@ -23,4 +23,14 @@ This minimal bot allows you to change your IP Addresses every number of Seconds 
 9. Change timeToReopenBrowser
 10. Change videoLength
 11. Execute Program
+```
+
+<b>How To Configure GeckoDriver</b>
+
+```
+1. Open Terminal
+2. sudo cp geckodriver /usr/local/bin
+3. cd /usr/local/bin
+4. sudo chmod +x geckodriver
+5. geckodriver (It Must Show Version In Terminal Otherwise Download GeckoDriver As Per Your FireFox Version)
 ```
